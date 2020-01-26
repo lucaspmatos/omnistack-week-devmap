@@ -1,0 +1,7 @@
+# Dependency directories
+.vscode/
+<<<<<<< HEAD
+node_modules/
+=======
+node_modules/
+>>>>>>> 789d244e97803d7745d5cb79252f6b6c35b48d6a
