@@ -62,7 +62,7 @@ function Main({ navigation }){
             }
         });
 
-        setDevs(response.data.devs);
+        setDevs(response.data);
         setupWebSocket();
     }
 
