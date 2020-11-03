@@ -4,4 +4,4 @@ A semana OmniStack, evento on-line realizado pela [Rocketseat](https://rocketsea
 Em sua décima edição, o desafio foi criar uma aplicação de geolocalização para encontrar desenvolvedores próximos à sua localização: o *DevRadar*. O sistema é conectado aos perfis dos profissionais no [**GitHub**](https://github.com).
 
 ## Professor do evento
-[Diego Fernandes](https://github.com/diego3g)
+:man_teacher: [Diego Fernandes](https://github.com/diego3g)
